@@ -34,14 +34,5 @@ The analysis identified three distinct player clusters, each representing a uniq
 * `fpl_data.csv`: The dataset containing player statistics used for the analysis.
 * `sports_clustering_analysis.ipynb`: A Jupyter Notebook containing the full code for the data preprocessing, clustering, and analysis.
 
-### How to Run the Analysis
-
-1.  **Prerequisites:** Ensure you have Python installed, along with the required libraries. You can install them using pip:
-    ```
-    pip install pandas numpy scikit-learn matplotlib seaborn
-    ```
-2.  **Clone the Repository:**
-    ```
-    git clone [your-repository-url]
-    ```
+2.  
 3.  **Run the Notebook:** Open the `sports_clustering_analysis.ipynb` file in a Jupyter Notebook environment to view and execute the analysis code.
